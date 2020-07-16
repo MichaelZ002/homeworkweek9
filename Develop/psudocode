@@ -1,0 +1,7 @@
+make a readme generator
+
+It should ask qustions when i do node index.js
+
+some questions it should ask are: Title, descirpotion, table of contetns, installation, usage, license, contributing, test, questions. AT A MIN
+
+the readme has 1 baedge that specific to the repository.
